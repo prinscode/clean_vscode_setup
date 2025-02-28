@@ -20,7 +20,8 @@ This repository contains configuration files to create a clean, distraction-free
 ## Shoutout
 
 Special thanks to [Glenn Raya](https://github.com/glennraya) for the inspiration and guidance in creating this setup.
-Check out his [youtube video](https://www.youtube.com/watch?v=9_I0bySQoCs&t=593s) on how to set it up.
+Check out his [youtube video](https://www.youtube.com/watch?v=9_I0bySQoCs&t=593s) on how to set it up. It's pretty much the same setup my color scheme is just different
+
 ## Setup
 
 1. Clone this repository:
