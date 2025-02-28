@@ -86,6 +86,7 @@
     **/
     "php.suggest.basic": false,
 
+
     /**
     * Prettier
     **/
@@ -162,7 +163,7 @@
     "workbench.statusBar.visible": false,
     "editor.inlineSuggest.suppressSuggestions": true,
     "codesnap.backgroundColor": "#FFC540",
-    "codesnap.showLineNumbers": false,
+    "codesnap.showLineNumbers": true,
     "codesnap.roundedCorners": true,
     "editor.padding.top": 16,
     "editor.cursorBlinking": "solid",
