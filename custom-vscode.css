@@ -72,6 +72,14 @@
     color: #fff !important;
    }
 
+   .quick-input-list .monaco-list .monaco-list-row.focused .monaco-highlighted-label .highlight {
+       color: #e19129 !important;
+   }
+
+   .quick-input-list .monaco-list .monaco-list-row .monaco-highlighted-label .highlight {
+       color: #e19129 !important;
+   }
+
    .explorer-item-edited {
     font-family: Geist Mono !important;
     font-size: 16px !important;
